@@ -13,35 +13,13 @@
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
     <option name="INTRODUCE_CONST_VARS" value="true" />
+    <option name="TYPE_QUALIFIERS_PLACEMENT" value="AFTER" />
   </Objective-C>
   <Objective-C-extensions>
-    <file>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
-    </file>
-    <class>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
-    </class>
-    <extensions>
-      <pair source="cpp" header="h" fileNamingConvention="NONE" />
-      <pair source="c" header="h" fileNamingConvention="NONE" />
-    </extensions>
+    <option name="TYPE_QUALIFIERS_PLACEMENT" value="AFTER" />
   </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
     <option name="INDENT_CASE_FROM_SWITCH" value="false" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_WITHIN_EMPTY_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
