@@ -57,6 +57,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'L14_01_T01.MemoryAllocator'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'L14_01_T01.MemoryAllocator'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'L14_02_T03.MemoryNightmare'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
