@@ -22,7 +22,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'L14_01_T02.BytesParsing'</Description>
-          <Count>13</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'L01_D02.ReferencesPe...'">
@@ -31,6 +31,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'L01_D02.ReferencesPe...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'L14_01_T02.BytesParsing'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'L14_01_T02.BytesParsing'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'L12_T03.Groups'">
