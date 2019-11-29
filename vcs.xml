@@ -7,12 +7,20 @@
           <option name="userName" value="MartinBG@abv.bg" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/zhivkopetrov/CacheFriendlyCode.git" />
+          <option name="url" value="https://github.com/Martin-BG/SoftUni-CPP-Advanced.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Martin-BG/SoftUni-CPP-Fundamentals.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Martin-BG/SoftUni-CPP-Programming.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Scripts" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />

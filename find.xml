@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\02. Functions, Arrays and Vectors\JA1\02. Modulated Sum.cpp'" />
-    <option name="defaultScopeName" value="File '...\02. Functions, Arrays and Vectors\JA1\02. Modulated Sum.cpp'" />
+    <option name="customScope" value="Project 'Makefile'" />
+    <option name="defaultScopeName" value="Project 'Makefile'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\02. Functions, Arrays and Vectors\JA1\02. Modulated Sum.cpp'" />
+    <option name="SEARCH_SCOPE" value="Project 'Makefile'" />
   </component>
 </application>
