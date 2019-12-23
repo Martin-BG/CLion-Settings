@@ -6,9 +6,6 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
@@ -19,5 +16,8 @@
   <component name="OCCodeFoldingSettings">
     <option name="collapseTemplateParamList" value="false" />
     <option name="COLLAPSE_TEMPLATE_PARAM_LIST" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
