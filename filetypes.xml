@@ -1,14 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="log" type="ANSI Aware" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="Log" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="pl" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".npmignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
