@@ -19,7 +19,7 @@
                   </entry>
                   <entry key="CLion_CoreDump">
                     <value>
-                      <FeaturePluginData displayName="Core Dump Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="Core Dump Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CLion_Remote">
